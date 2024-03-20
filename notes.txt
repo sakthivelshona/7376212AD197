@@ -1,0 +1,5 @@
+Git Commands to push files into github repositories
+git add.
+git commit -m "Updated"
+git push origin main
+
